@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Development environments
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime files
+*.log
+.DS_Store
+
+# Project-specific files
+llm_profiles.json
+llm_test_results.json
